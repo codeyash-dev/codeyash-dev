@@ -19,7 +19,7 @@
 | **Attribute** | **Information** |
 | :--- | :--- |
 | **Founder** | **Code Yash Developers** </> |
-| **Education** | **Computer Science Student** at **RMIT University, Australia** |
+| **Education** | **Computer Science Student** at **Informatic Institute of Technology, Sri Lanka** |
 | **Passion** | **"Code Is My Life </>"** — building clean, scalable applications |
 | **Web** | [codeyash.dev](http://codeyash.dev) |
 | **Contact** | yashen@codeyash.dev |
@@ -39,7 +39,7 @@
 ---
 
 ### 🚀 2026 Roadmap
-* **Academic Excellence:** Maintain a high GPA at **RMIT** while mastering Data Structures and Algorithms.
+* **Academic Excellence:** Maintain a high GPA at **IIT** while mastering Data Structures and Algorithms.
 * **Business Growth:** Scale **Code Yash Developers** and launch innovative web solutions.
 * **Open Source:** Actively contribute to major repositories on GitHub.
 * **Technical Advancement:** Explore AI-based development and advanced system architecture.
