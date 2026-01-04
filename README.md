@@ -4,7 +4,6 @@
 <p align="center">
   <img src="about.jpg" alt="Profile Views" />
 </p>
----
 
 ### 📌 About Me
 - 👨‍💻 **Identity:** Founder of **Code Yash Developers**
