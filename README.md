@@ -2,7 +2,7 @@
 <p align="center"><strong>Computer Science Student | Software Engineer | Web Developer</strong></p>
 
 <p align="center">
-  <img src="about.jpg" alt="Profile Views" />
+  <img src="about.jpg" alt="Profile Views" /> 
 </p>
 
 ### 📌 About Me
