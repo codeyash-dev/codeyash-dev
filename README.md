@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Yashen 👋</h1>
-<p align="center"><strong>Computer Science Student | Software Engineer | Web Developer</strong></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Software+Engineer;Web+Developer" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://codeyash.dev/about.jpg" alt="Profile Views" /> 
+  <img src="https://codeyash.dev/about.jpg" alt="Profile Banner" /> 
 </p>
 
 ### 📌 About Me
